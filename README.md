@@ -14,23 +14,23 @@ O jogo está disponível para download através do link: [Download Mystery Math.
  
 # Screenshots do projeto
 <p align="center">
-<img alt="Tela inicial" src=".github/telainicial.jpeg" width="600px">
+<img alt="Tela inicial" src=".github/telainicial.jpeg" width="300px">
 </p>
 
 <p align="center">
-<img alt="Imagem menu" src=".github/menu.jpeg" width="600px">
+<img alt="Imagem menu" src=".github/menu.jpeg" width="300px">
 </p>
 
 <p align="center">
-<img alt="Chat Pascal" src=".github/pascal1.jpeg" width="600px">
+<img alt="Chat Pascal" src=".github/pascal1.jpeg" width="300px">
 </p>
 
 <p align="center">
-<img alt="Perfil Pascal" src=".github/perfilpascal.jpeg" width="600px">
+<img alt="Perfil Pascal" src=".github/perfilpascal.jpeg" width="300px">
 </p>
 
 <p align="center">
-<img alt="Chat Newton" src=".github/newton1.jpeg" width="600px">
+<img alt="Chat Newton" src=".github/newton1.jpeg" width="300px">
 </p>
 # Desenvolvedores
 
