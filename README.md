@@ -32,6 +32,7 @@ O jogo está disponível para download através do link: [Download Mystery Math.
 <p align="center">
 <img alt="Chat Newton" src=".github/newton1.jpeg" width="300px">
 </p>
+
 # Desenvolvedores
 
  - [Marcus Vinícius Ribeiro](https://www.linkedin.com/feed/)
